@@ -1,0 +1,5 @@
+cell_images/Parasitized/*
+cell_images/Uninfected/*
+cell_images/train
+cell_images/validate
+cell_images/test
