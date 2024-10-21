@@ -1,5 +1,7 @@
-cell_images/Parasitized/*
-cell_images/Uninfected/*
+cell_images/Parasitized/*.png
+cell_images/Parasitized/*.jpg
+cell_images/Uninfected/*.png
+cell_images/Uninfected/*.jpg
 cell_images/train
 cell_images/validate
 cell_images/test
